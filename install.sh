@@ -7,9 +7,9 @@
 # Should check and pull instead of staritn from scratch. Maybe write an update function.
 # Or a clean option!
 
-rm -rf .emacs
-rm -rf .bash
-rm -rf .files
+# rm -rf .emacs
+# rm -rf .bash
+# rm -rf .files
 
 # This can probably be compacted, and some strings can be abstracted out.
 
